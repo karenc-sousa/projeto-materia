@@ -1,0 +1,57 @@
+body {
+	background-image: url("C:/Users/karen/Desktop/projeto_materia/_img/background2.jpg");
+	margin: 20px;
+	background-color: #f0f8ff;
+	border: thin solid;
+	font-family: Calibri,sans-serif;
+}
+
+h1, footer {
+	color: black;
+	text-align: center;
+}
+
+a {
+	color: blue;
+	margin: 8px;
+}
+
+h3 {
+	margin: 10px;
+	color: red; 
+	font-style: italic;
+	text-decoration: underline;
+
+}
+	
+hr {
+	width: 1150px;
+}
+
+p, small {
+	color: black;
+	text-align: justify;
+	margin: 10px;
+}
+
+#imagem {
+	display: block;
+	size: 110px;
+	margin-left: 10px;
+	width: 250px;
+	height: 250px;
+
+}
+
+textarea {
+	width: 320px;
+	height: 100px;
+	margin: 10px;
+}
+
+#enviar {
+	background-color: rgb(204,204,255);
+	font-size: 14px;
+	margin: 10px;
+
+}
